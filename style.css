@@ -1,4 +1,6 @@
-
+.container{
+    margin-bottom: 100px;
+}
 .panda-carosal-1{
     background-color: #fceae8;
 } 
@@ -17,4 +19,11 @@
 .categorie-3{
     padding: 10px 30px;
     border-radius: 10px;
+}
+.subscribe-height{
+    height: 300px;
+}
+#subscribe{
+   
+  
 }
